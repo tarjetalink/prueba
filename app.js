@@ -1,5 +1,5 @@
 const API =
-"TU_URL";
+"https://script.google.com/macros/s/AKfycbxOJoIvulK7RSiqs69HHc6fMNQpUWEpVTBCa4hQiS66W9SSY7qGnnwIVGnK04IyV39SFw/exec";
 
 const parametros =
 new URLSearchParams(window.location.search);
