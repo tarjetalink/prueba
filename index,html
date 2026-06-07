@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Tarjeta Fidelización</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<div class="card">
+
+<h1>🍔 Grace Burger</h1>
+
+<h2 id="nombre">Cargando...</h2>
+
+<p>Compras acumuladas</p>
+
+<div class="numero" id="visitas">0</div>
+
+<div class="barra">
+<div class="progreso" id="progreso"></div>
+</div>
+
+<p id="mensaje"></p>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
